@@ -23,9 +23,9 @@ The goal of this project is to **analyze patterns in rides, cancellations, and c
 - **August** recorded the highest number of cancellations by drivers (especially due to lack of available cars).  
 - **July** had the highest number of cancellations by customers.  
 
-![Booking Status by Month](booking_status_by_month.png)  
-![Cancelled by Customer Trend](Trend_of_Cancelled_by_Customer_per_Month.png)  
-![Cancelled by Driver Trend](Trend_of_Cancelled_by_Driver_per_Month.png)  
+![Booking Status by Month](photos/booking_status_by_month.png)  
+![Cancelled by Customer Trend](photos/Trend_of_Cancelled_by_Customer_per_Month.png)  
+![Cancelled by Driver Trend](photos/Trend_of_Cancelled_by_Driver_per_Month.png)  
 
 ---
 
@@ -33,9 +33,9 @@ The goal of this project is to **analyze patterns in rides, cancellations, and c
 - In **August**, the highest bookings were on **Saturday and Thursday**.  
 - Cancellations (by both drivers and customers) occurred most in the **morning and afternoon**, followed by the evening.  
 
-![Booking Count by Day in August](booking_count_by_day_in_August.png)  
-![Cancelled by Customer by Time Period](Cancelled_by_Customer_booking_status_by_time_period_august_daily.png)  
-![Cancelled by Driver by Time Period](Cancelled_by_Driver_booking_status_by_time_period_august_daily.png)  
+![Booking Count by Day in August](photos/booking_count_by_day_in_August.png)  
+![Cancelled by Customer by Time Period](photos/Cancelled_by_Customer_booking_status_by_time_period_august_daily.png)  
+![Cancelled by Driver by Time Period](photos/Cancelled_by_Driver_booking_status_by_time_period_august_daily.png)  
 
 ---
 
@@ -48,7 +48,7 @@ The goal of this project is to **analyze patterns in rides, cancellations, and c
 - Driver asked to cancel → 2295  
 - AC not working → 1155  
 
-![Reasons Cancelled by Customer](reasons_cancelled_by_customer.png)  
+![Reasons Cancelled by Customer](photos/reasons_cancelled_by_customer.png)  
 
 #### By Drivers  
 - Customer-related issues → 6837  
@@ -56,7 +56,7 @@ The goal of this project is to **analyze patterns in rides, cancellations, and c
 - Personal & car-related issues → 6726  
 - More than permitted people → 6686  
 
-![Reasons Cancelled by Driver](reasons_cancelled_by_driver.png)  
+![Reasons Cancelled by Driver](photos/reasons_cancelled_by_driver.png)  
 
 ---
 
@@ -66,7 +66,7 @@ Most common reasons:
 - Vehicle Breakdown → 3012  
 - Other Issues → 2948  
 
-![Incomplete Rides Reasons](incomplete_rides_reasons.png)  
+![Incomplete Rides Reasons](photos/incomplete_rides_reasons.png)  
 
 ---
 
@@ -75,7 +75,7 @@ The most widely used payment methods were:
 - **UPI**  
 - **Cash**  
 
-![Payment Methods](payment_methods.png)  
+![Payment Methods](photos/payment_methods.png)  
 
 ---
 
@@ -85,11 +85,11 @@ The top 3 vehicle types used were:
 - Go Sedan  
 - Bike  
 
-![Number of Completed Orders by Vehicle Type](Number_of_Completed_Orders_by_Vehicle_Type.png)  
+![Number of Completed Orders by Vehicle Type](photos/Number_of_Completed_Orders_by_Vehicle_Type.png)  
 
 Most rides were completed in the **Afternoon** for almost all vehicle types.  
 
-![Completed Rides by Vehicle Type and Time Period](Completed_Rides_by_Vehicle_Type_and_Time_Period.png)  
+![Completed Rides by Vehicle Type and Time Period](photos/Completed_Rides_by_Vehicle_Type_and_Time_Period.png)  
 
 ---
 
